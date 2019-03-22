@@ -1,9 +1,9 @@
-# Springboot Rest API based application :boom:
+# Springboot Application :boom:
 
 Simple rest API based springboot application using Java(1.8.*)
 
-+ features are
-    - API (POST "/api/startCrawler"): is a api which will start crawler and parse input json and return back with string contains success, skipped and error URL in given input json do in-depth traversing in a recursive way.
++ Current features are
+    - API (POST "/api/startCrawler"): api which start crawler and parse input json after parsing it will return back with string contains success, skipped and error URL in given input json. It also does in-depth traversing in a recursive way.
 
 
 #### prerequiest 
@@ -24,6 +24,7 @@ for running application will leverage maven CLI command before doing so we have 
 
 ### Now is time to test our rest API 
 you can use rest API client (like postman or ARC-advance rest client)
-your API would be ("http://localhost:8091/api/startCrawler") because i am using 8091 example port but please use your port what you specified in 5th command in  How to run application section.  
+
+your API would be ("http://localhost:8091/api/startCrawler") because i am using 8091 port in my example, but you can use your port what you specified in 5th command in  "How to run application section".  
 
 [Signature](https://lalitv92.github.io/) : Checking
