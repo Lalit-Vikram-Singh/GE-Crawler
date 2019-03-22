@@ -1,6 +1,6 @@
 # Springboot Rest API based application :boom:
 
-simple rest API based springboot application using Java(1.8.*)
+Simple rest API based springboot application using Java(1.8.*)
 
 + features are
     - API (POST "/api/startCrawler"): is a api which will start crawler and parse input json and return back with string contains success, skipped and error URL in given input json do in-depth traversing in a recursive way.
