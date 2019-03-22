@@ -1,10 +1,9 @@
-# Springboot Rest API based apllication :boom:
+# Springboot Rest API based application :boom:
 
 simple rest API based springboot application using Java(1.8.*)
-[Example]() :To deploy to production rcdn, run the following commands:
 
 + features are
-	- API (POST "/api/startCrawler"): is a api which will start crawler and parse input json and return back with string contains success, skiped and error url in given input json do indepth travesing in recursive way.
+    - API (POST "/api/startCrawler"): is a api which will start crawler and parse input json and return back with string contains success, skipped and error URL in given input json do in-depth traversing in a recursive way.
 
 
 ### prerequiest 
@@ -13,8 +12,8 @@ simple rest API based springboot application using Java(1.8.*)
 - Springboot(2.3)
 - JUint(JUint5)
 
-### How to run application 
-for runnig application will leverage maven CLI command before doing do that we have to follow fet steps
+### How to run an application 
+for running application will leverage maven CLI command before doing so we have to follow few steps
 
 1. Clone this repository 
 2. Go inside crawler dir
@@ -25,4 +24,6 @@ for runnig application will leverage maven CLI command before doing do that we h
 
 ### Now is time to test our rest API 
 you can use rest API client (like postman or ARC-advance rest client)
-your API wloud be ("http://localhost:8091/api/startCrawler") because i am using 8091 exampel port but please use your port what you espesified in 5th command in  How to run application section.  
+your API would be ("http://localhost:8091/api/startCrawler") because i am using 8091 example port but please use your port what you specified in 5th command in  How to run application section.  
+
+[Signature](https://lalitv92.github.io/) : Checking
