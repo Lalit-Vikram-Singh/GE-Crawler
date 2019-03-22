@@ -1,6 +1,6 @@
 # Springboot Application :boom:
 
-Simple rest API based springboot application using Java(11.*)
+Simple rest API based springboot application using Java(1.11.*)
 
 + Current features are
     - API (POST "/api/startCrawler"): api which start crawler and parse input json after parsing it will return back with string contains success, skipped and error URL in given input json. It also does in-depth traversing in a recursive way.
@@ -8,7 +8,7 @@ Simple rest API based springboot application using Java(11.*)
 
 #### prerequiest 
 - Maven(3.0*) 
-- Java(11.*)
+- Java(1.11.*)
 - Springboot(2.1.3)
 - JUint(JUint5)
 
