@@ -9,7 +9,7 @@ Simple rest API based springboot application using Java(1.8.*)
 #### prerequiest 
 - Maven(3.0*) 
 - Java(1.8.*)
-- Springboot(2.3)
+- Springboot(2.1.3)
 - JUint(JUint5)
 
 ### How to run an application 
