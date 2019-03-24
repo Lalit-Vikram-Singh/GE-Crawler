@@ -10,7 +10,7 @@ Simple rest API based springboot application using Java(1.11.*)
 - Maven(3.0*) 
 - Java(1.11.*)
 - Springboot(2.1.3)
-- JUint(JUint5)
+- JUnit(JUnit5)
 
 ### How to run an application 
 for running application will leverage maven CLI command before doing so we have to follow few steps
